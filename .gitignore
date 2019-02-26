@@ -44,8 +44,10 @@
 *.VC.db
 *.VC.opendb
 
-Content/UniversityGame/Textures/ESI/*
+Content/UniversityGame/Animations/*
 Content/UniversityGame/Textures/*
+Content/UniversityGame/Images/*
+Content/UniversityGame/Fonts/*
 
 # Precompiled Assets
 SourceArt/**/*.png
