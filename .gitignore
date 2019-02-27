@@ -46,6 +46,10 @@
 
 Content/2DSideScroller/*
 Content/2DSideScrollerBP/*
+Content/DefaultSpriteMaterial.uasset
+Content/DummySpriteTexture.uasset
+Content/OpaqueUnlitSpriteMaterial.uasset
+Content/PlaceholderTextures/DummySpriteTexture.uasset
 Content/UniversityGame/Animations/*
 Content/UniversityGame/Textures/*
 Content/UniversityGame/Images/*
