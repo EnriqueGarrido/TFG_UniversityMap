@@ -44,6 +44,8 @@
 *.VC.db
 *.VC.opendb
 
+Content/2DSideScroller/*
+Content/2DSideScrollerBP/*
 Content/UniversityGame/Animations/*
 Content/UniversityGame/Textures/*
 Content/UniversityGame/Images/*
