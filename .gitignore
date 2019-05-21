@@ -49,6 +49,7 @@ Content/SideScrollerBP/*
 Content/UniversityGame/Textures/*
 Content/UniversityGame/Images/*
 Content/UniversityGame/Fonts/*
+Content/UniversityGame/Videos/*
 
 # Precompiled Assets
 SourceArt/**/*.png
