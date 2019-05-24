@@ -50,7 +50,7 @@ Content/UniversityGame/Textures/*
 Content/UniversityGame/Images/*
 Content/UniversityGame/Fonts/*
 Content/UniversityGame/Videos/*
-Content/UniversityGame/Sound/*
+Content/UniversityGame/Audio/*
 
 # Precompiled Assets
 SourceArt/**/*.png
